@@ -1,0 +1,7 @@
+name: ActionEnchantments
+version: ${project.version}
+main: dev.aquild.actionenchantments.ActionEnchantments
+api-version: 1.13
+prefix: Action Enchantments
+authors: [Aquild]
+description: Give enchantment levels on various actions.
